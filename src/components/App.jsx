@@ -33,16 +33,3 @@ export default function App() {
     </div>
   );
 }
-
-{
-  /* <RotatingLines
-  visible={true}
-  
-  color="grey"
-  strokeWidth="5"
-  animationDuration="0.75"
-  ariaLabel="rotating-lines-loading"
-  wrapperStyle={{}}
-  wrapperClass=""
-/>; */
-}
