@@ -35,7 +35,7 @@ export default function ContactForm() {
       <label className={css.Form__label}>
         Name
         <input
-          maxLength={20}
+          maxLength={18}
           className={css.Form__input}
           type="text"
           name="name"
@@ -48,7 +48,7 @@ export default function ContactForm() {
       <label className={css.Form__label}>
         Number
         <input
-          maxLength={20}
+          maxLength={18}
           className={css.Form__input}
           type="tel"
           name="phone"
